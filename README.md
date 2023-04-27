@@ -1,2 +1,0 @@
-# taniyachi.github.io
-project
